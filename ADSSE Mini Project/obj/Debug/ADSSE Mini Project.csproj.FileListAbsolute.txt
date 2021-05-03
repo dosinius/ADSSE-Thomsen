@@ -1,0 +1,7 @@
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\bin\Debug\ADSSE Mini Project.exe.config
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\bin\Debug\ADSSE Mini Project.exe
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\bin\Debug\ADSSE Mini Project.pdb
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\obj\Debug\ADSSE Mini Project.csprojAssemblyReference.cache
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\obj\Debug\ADSSE Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\obj\Debug\ADSSE Mini Project.exe
+C:\Users\madsa\source\repos\ADSSE Mini Project\ADSSE Mini Project\obj\Debug\ADSSE Mini Project.pdb
